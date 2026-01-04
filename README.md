@@ -30,6 +30,8 @@
 - 📷 Instagram: [@sharifi_heravi](https://instagram.com/sharifi_heravi)
 - 👥 Facebook: [sharifi_heravi](https://facebook.com/sharifi_heravi)
 
+For Use This App Click on this link: https://ddcfarsi.github.io/DDCFarsi-DAF/
+
  📄 لایسنس
 
 MIT License
